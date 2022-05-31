@@ -1,5 +1,5 @@
 ---
-title: "quarto_bottomup_blog"
+title: "Blog" # Changed title here
 listing:
   contents: posts
   sort: "date desc"
