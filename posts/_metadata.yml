@@ -1,8 +1,12 @@
 # options specified here will apply to all posts in this folder
 
-# freeze computational output
-# (see https://quarto.org/docs/projects/code-execution.html#freeze)
+
 freeze: true
 
-# Enable banner style title blocks
-title-block-banner: true
+
+title-block-banner: false # Remove title banner
+
+toc: true # Adds table of content to blog post's side bar
+toc-depth: 2 # What subheadings will be displayed in toc?
+
+author: 'Albert Rapp' # Set author of all blog posts
