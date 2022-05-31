@@ -2,25 +2,20 @@ project:
   type: website
 
 website:
-  title: "Quarto Blog Demo" # New Blog name
+  title: "Quarto Blog Demo" 
   navbar:
     right:
-      - about.qmd
+      - blog.qmd # Change to blog.qmd here
       - icon: github
         href: https://github.com/AlbertRapp
-        # Add your GitHub profile
       - icon: twitter
         href: https://twitter.com/rappa753
-        # Add your Twitter profile
       - icon: youtube
         href: https://www.youtube.com/user/Alfrodo123
-        # Add your YouTube profile
         
 format:
   html:
     theme: default
-    # Use default. We will customize later
 
 editor: source
-# I prefer the source editor 
 
