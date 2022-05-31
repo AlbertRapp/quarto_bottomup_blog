@@ -2,18 +2,25 @@ project:
   type: website
 
 website:
-  title: "quarto_bottomup_blog"
+  title: "Quarto Blog Demo" # New Blog name
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/AlbertRapp
+        # Add your GitHub profile
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/rappa753
+        # Add your Twitter profile
+      - icon: youtube
+        href: https://www.youtube.com/user/Alfrodo123
+        # Add your YouTube profile
+        
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: default
+    # Use default. We will customize later
 
-editor: visual
+editor: source
+# I prefer the source editor 
 
