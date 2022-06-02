@@ -8,7 +8,16 @@ listing:
   sort-ui: true
   filter-ui: true 
   fields: [date, title, reading-time, description, categories]
-  # Determines what is listed
 page-layout: full
-title-block-banner: false # Set to false
+title-block-banner: false
 ---
+
+
+# Series
+
+<!-- Link to html file here (change filename.qmd to filename.html) -->
+- [My super great series](series1.html): This is a series about great stuff. Seriously. Grade AAA content in here.
+
+---
+
+# All Blog Posts
