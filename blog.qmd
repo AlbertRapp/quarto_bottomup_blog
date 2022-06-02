@@ -5,8 +5,10 @@ listing:
   sort: "date desc"
   type: default
   categories: true
-  sort-ui: true # Set to true
-  filter-ui: true # Set to true
+  sort-ui: true
+  filter-ui: true 
+  fields: [date, title, reading-time, description, categories]
+  # Determines what is listed
 page-layout: full
-title-block-banner: true
+title-block-banner: false # Set to false
 ---
