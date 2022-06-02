@@ -1,0 +1,13 @@
+---
+title: "My super awesome series" # Change title series
+listing:
+  contents: posts/series1 # Use new directory of series
+  sort: "date desc"
+  type: default
+  categories: false # Don't need tag list here
+  sort-ui: true
+  filter-ui: true 
+  fields: [date, title, reading-time, description, categories]
+page-layout: full
+title-block-banner: false 
+---
