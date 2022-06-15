@@ -5,7 +5,7 @@ website:
   title: "Quarto Blog Demo" 
   navbar:
     right:
-      - blog.qmd # Change to blog.qmd here
+      - blog.qmd 
       - icon: github
         href: https://github.com/AlbertRapp
       - icon: twitter

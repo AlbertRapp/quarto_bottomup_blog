@@ -3,10 +3,15 @@
 
 freeze: true
 
+title-block-banner: false 
 
-title-block-banner: false # Remove title banner
+toc: true 
+toc-depth: 2 
 
-toc: true # Adds table of content to blog post's side bar
-toc-depth: 2 # What subheadings will be displayed in toc?
+author: 'Albert Rapp' 
 
-author: 'Albert Rapp' # Set author of all blog posts
+
+# Comments for blog posts via utterances app
+comments: 
+  utterances: 
+    repo: AlbertRapp/blogComments 
