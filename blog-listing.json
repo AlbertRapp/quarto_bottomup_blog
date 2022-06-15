@@ -1,0 +1,9 @@
+{
+  "listing": "/blog.html",
+  "items": [
+    "/posts/series1/new_post/post.html",
+    "/posts/new/new_post.html",
+    "/posts/post-with-code/index.html",
+    "/posts/welcome/index.html"
+  ]
+}

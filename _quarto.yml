@@ -3,6 +3,10 @@ project:
 
 website:
   title: "Quarto Blog Demo" 
+  # Add site-url (without trailing / at the end)
+  site-url: https://albert-rapp.de
+  # Add description: 
+  description: "This is my blog where I'm king in the castle. Very nice."
   navbar:
     right:
       - blog.qmd 
@@ -12,6 +16,11 @@ website:
         href: https://twitter.com/rappa753
       - icon: youtube
         href: https://www.youtube.com/user/Alfrodo123
+      # Add RSS feed to navbar
+      # Link is given by {name}.xml where
+      # {name} is name of qmd-file generating the feed
+      - icon: rss
+        href: blog.xml
         
 format:
   html:

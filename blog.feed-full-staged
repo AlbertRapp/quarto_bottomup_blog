@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Quarto Blog Demo</title>
+<link>https://albert-rapp.de/blog.html</link>
+<atom:link href="https://albert-rapp.de/blog.xml" rel="self" type="application/rss+xml"/>
+<description>This is my blog where I'm king in the castle. Very nice.</description>
+<generator>quarto-0.9.566</generator>
+<lastBuildDate>Wed, 01 Jun 2022 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>{B4F502887207:/posts/series1/new_post/post.html}</title>
+  <link>https://albert-rapp.de/posts/series1/new_post/post.html</link>
+  <description>{B4F502887207:/posts/series1/new_post/post.html}</description>
+  <category>123</category>
+  <category>Second Tag</category>
+  <guid>https://albert-rapp.de/posts/series1/new_post/post.html</guid>
+  <pubDate>Wed, 01 Jun 2022 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/posts/new/new_post.html}</title>
+  <link>https://albert-rapp.de/posts/new/new_post.html</link>
+  <description>{B4F502887207:/posts/new/new_post.html}</description>
+  <category>123</category>
+  <category>Second Tag</category>
+  <guid>https://albert-rapp.de/posts/new/new_post.html</guid>
+  <pubDate>Tue, 31 May 2022 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/posts/post-with-code/index.html}</title>
+  <dc:creator>Harlow Malloc</dc:creator>
+  <link>https://albert-rapp.de/posts/post-with-code/index.html</link>
+  <description>{B4F502887207:/posts/post-with-code/index.html}</description>
+  <category>news</category>
+  <category>code</category>
+  <category>analysis</category>
+  <guid>https://albert-rapp.de/posts/post-with-code/index.html</guid>
+  <pubDate>Mon, 30 May 2022 22:00:00 GMT</pubDate>
+  <media:content url="https://albert-rapp.de/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/welcome/index.html}</title>
+  <dc:creator>Tristan O'Malley</dc:creator>
+  <link>https://albert-rapp.de/posts/welcome/index.html</link>
+  <description>{B4F502887207:/posts/welcome/index.html}</description>
+  <category>news</category>
+  <guid>https://albert-rapp.de/posts/welcome/index.html</guid>
+  <pubDate>Fri, 27 May 2022 22:00:00 GMT</pubDate>
+  <media:content url="https://albert-rapp.de/posts/welcome/thumbnail.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
