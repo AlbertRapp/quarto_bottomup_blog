@@ -11,7 +11,14 @@ toc-depth: 2
 author: 'Albert Rapp' 
 
 
-# Comments for blog posts via utterances app
 comments: 
   utterances: 
     repo: AlbertRapp/blogComments 
+
+# Include something after every blog post with hand-made html-file
+format:
+  html:
+    include-after-body: ../body_footer.html
+    
+    
+    
