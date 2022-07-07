@@ -24,4 +24,46 @@ Feel free to reach out to me via [mail](mailto:blog@albert-rapp.de) and subscrib
 <iframe src="https://embeds.beehiiv.com/9232d2a2-6e85-4beb-b8ed-1de94e9e4f01?slim=true" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent; height: 75px;width:80%"></iframe>
 :::
 
+
+::: {.g-col-12 .g-col-md-5}
+# Data Visualization
+
+- This will be filled...
+- ...when everything i  sdfs ready.f adf asd sdf sdf 
+- Bla bla bla bla sdf s sd fs  sdf sdfasdfsf 
+
+:::
+
+::: {.g-col-12 .g-col-md-5}
+# Stats/ML
+
+- This will be filled...
+- ...when everything is ready.
+- Bla bla bla bla
+:::
+
+::: {.g-col-12 .g-col-md-5}
+# Dashboards
+
+- This will be filled...
+- ...when everything is ready.
+- Bla bla bla bla
+:::
+
+::: {.g-col-12 .g-col-md-5}
+# YouTube
+
+- This will be filled...
+- ...when everything is ready.
+- Bla bla bla bla
+:::
+
+::: {.g-col-12 .g-col-md-5}
+# Dashboards
+
+- This will be filled...
+- ...when everything is ready.
+- Bla bla bla bla
+:::
+
 :::
