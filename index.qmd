@@ -25,7 +25,7 @@ Feel free to reach out to me via [mail](mailto:blog@albert-rapp.de) and subscrib
 :::
 
 
-::: {.g-col-12 .g-col-md-5}
+::: {.g-col-12 .g-col-md-5 .g-start-md-2}
 # Data Visualization
 
 - This will be filled...
@@ -42,7 +42,7 @@ Feel free to reach out to me via [mail](mailto:blog@albert-rapp.de) and subscrib
 - Bla bla bla bla
 :::
 
-::: {.g-col-12 .g-col-md-5}
+::: {.g-col-12 .g-col-md-5 .g-start-md-2}
 # Dashboards
 
 - This will be filled...
@@ -58,7 +58,7 @@ Feel free to reach out to me via [mail](mailto:blog@albert-rapp.de) and subscrib
 - Bla bla bla bla
 :::
 
-::: {.g-col-12 .g-col-md-5}
+::: {.g-col-12 .g-col-md-5 .g-start-md-2}
 # Dashboards
 
 - This will be filled...
