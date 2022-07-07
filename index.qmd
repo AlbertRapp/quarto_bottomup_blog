@@ -7,11 +7,11 @@ page-layout: full
 
 ::: {.grid}
 
-::: {.g-col-6}
+::: {.g-col-12 .g-col-md-6}
 ![](my_profile.jpg)
 :::
 
-::: {.g-col-6}
+::: {.g-col-12 .g-col-md-6}
 # Hi, I'm Albert Rapp.
 I'm a mathematics PhD students with a passion for R, data visualization, interactive dashboards and statistics/machine learning. On this blog, I share and teach what I learn.
 
